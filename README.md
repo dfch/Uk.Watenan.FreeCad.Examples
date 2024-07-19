@@ -1,2 +1,2 @@
 # Uk.Watenan.FreeCad.Examples
-FreeCAD repository containing example and reusable objects
+FreeCAD repository containing example and reusable models
